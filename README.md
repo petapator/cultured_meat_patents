@@ -1,2 +1,2 @@
 # cultured_meat_patents
-To discuss patents that help developing the tecnhologies of cultured meat.
+To discuss patents that help the development the cultured meat tecnhologies.
